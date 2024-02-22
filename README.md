@@ -28,9 +28,13 @@ This Is Git Demo To Learn <br>
  19.git branch -M <BranchName>//To Rename branch  <br>
  20.git checkout <BranchName> //To Navigate  <br>
  21.git checkout -b <NewBranchName> //To Create New Branch  <br>
- 22.git checkout -bd<NewBranchName> //To Delete New Branch  <br>
+ 22.git checkout -d<NewBranchName> //To Delete New Branch  <br>
 
  # Merge Branch 
- 23.get diff <BranchName>      //To compare commit, files and more  <br>
- 24.get merge <BranchName>     //To mearge two branch  <br> 
+ 23.git diff <BranchName>      //To compare commit, files and more  <br>
+ 24.git merge <BranchName>     //To mearge two branch  <br> 
  25.git pull origin main       //to pull  <br>
+
+ # Git Reset
+ 26.git reset <FileName>       //To Reset Stage-1 (Add stage)
+ 27.git reset                  //To Reset All Recent Stage-1 (Add stage)
