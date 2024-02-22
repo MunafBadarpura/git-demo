@@ -13,12 +13,12 @@ This Is Git Demo To Learn <br>
 
 # Create Repo In VSCODE <br>
 
- 9.git init                   //to crate repo in vscode  <br>
- 10.git add                    //to add  <br>
- 11.git commit -m              //to add  <br>
+ 09.git init                  //to crate repo in vscode  <br>
+ 10.git add                   //to add  <br>
+ 11.git commit -m             //to add  <br>
  12.git remote origin <LINK>  //to crate repo in vscode  <br>
  13.git remote -v             //To varify
- 14.git branch -v             //To check branch  <br>
+ 14.git branch                //To check branch  <br>
  15.git branch -M <NAME>      //To Rename branch  <br>
  16.git push origin main      //To push  <br>
 
