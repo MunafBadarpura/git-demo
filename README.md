@@ -38,3 +38,7 @@ This Is Git Demo To Learn <br>
  # Git Reset
  26.git reset <FileName>       //To Reset Stage-1 (Add stage)
  27.git reset                  //To Reset All Recent Stage-1 (Add stage)
+ 28.git reset Head~1           //To Reset  Stage-2 (Commit stage)
+ 29.git log                    //To All Commit History With Hash
+ 30.git reset <CommitHash>     //To Reset Any Commit
+ 31.git reset --hard <CommitHash>     //To Reset Any Commit
