@@ -5,7 +5,7 @@ This Is Git Demo To Learn <br>
  1.git status                // to check status <br>
  2.ls                        // to List Files <br>
  3.ls -Force                 // to List Hiden Files <br>
- 4.git add                   //to add a changes <br>
+ 4.git add <FileName>        //to add a changes <br>
  5.git add .                 //to add all changes <br>
  6.git commit -m "MSG"       //to commit  <br>
  7.git push origin main      //to push  <br>
