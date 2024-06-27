@@ -16,7 +16,7 @@ This Is Git Demo To Learn <br>
  09.git init                  //to crate repo in vscode  <br>
  10.git add                   //to add  <br>
  11.git commit -m             //to add  <br>
- 12.git remote origin "LINK"  //to crate repo in vscode  <br>
+ 12.git remote add origin "LINK"  //to crate repo in vscode  <br>
  13.git remote -v             //To varify <br>
  14.git push origin main      //To push  <br>
 
