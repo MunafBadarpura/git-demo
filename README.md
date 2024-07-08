@@ -27,6 +27,8 @@ This Is Git Demo To Learn <br>
  20.git checkout "BranchName" //To Navigate  <br>
  21.git checkout -b "NewBranchName" //To Create New Branch  <br>
  22.git checkout -d "NewBranchName" //To Delete New Branch  <br>
+ 22.git stash                    //To Draft changes  <br>
+ 22.git stash apply              //To Draft Apply  <br>
 
  # Merge Branch 
  23.git diff "BranchName"      //To compare commit, files and more  <br>
