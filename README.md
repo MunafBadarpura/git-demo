@@ -2,7 +2,7 @@
 This Is Git Demo To Learn <br>
 
 # Git Commands
- 1.git status                // to check status <br>
+ 1.git status                  // to check status <br>
  2.ls                        // to List Files <br>
  3.ls -Force                 // to List Hiden Files <br>
  4.git add "FileName"        //to add a changes <br>
